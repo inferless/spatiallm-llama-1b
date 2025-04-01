@@ -1,4 +1,4 @@
-# Tutorial - Deploy SpatialLM-Llama-1B using Inferless
+# Deploy SpatialLM-Llama-1B using Inferless
 
 SpatialLM-Llama-1B is a 3D large language model that processes point cloud data to produce structured 3D scene representations. It identifies architectural elements and object bounding boxes with semantic labels from various sources, including video, RGBD images, and LiDAR. 
 
